@@ -8,4 +8,7 @@
   "author": "",
   "license": "ISC",
   "description": ""
+  "publishConfig": {
+  "@az-test-1:spring-petclinic": "https://npm.pkg.github.com"
+  }
 }
